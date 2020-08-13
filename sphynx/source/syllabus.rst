@@ -54,10 +54,14 @@ Week 1
 * Day 4
 
   * Homework #3 review
-  * Python modules
-  * Organizing your code in files
-  * system call/subprocess
-  * Exercise: bringing python to the command line
+  * `Git <https://github.com/NHERI-SimCenter/SimCenterBootcamp2020/blob/master/presentations/Git.pdf>`_
+  * Short remarks on
+
+      * Python modules
+      * Organizing your code in files
+      * system call/subprocess
+      * Exercise: bringing python to the command line
+
   * Python Web Scrabbing 
   * Assign Homework #4
   * TACC - logging in/linux basics (cd, ls, mkdir, ...)
@@ -66,7 +70,6 @@ Week 1
 * Day 5: git and Intro to C
 
   * Homework #4 review
-  * Git and GitHub
   * Exercise: collaboration with git
   * Intro to C
   * Compiling and debugging
