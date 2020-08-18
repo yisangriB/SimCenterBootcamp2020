@@ -1,0 +1,17 @@
+C#include <stdio.h>
+
+int main(int argc, char **argv){
+  char c;
+  int nDigit=0, nWhite=0, nOther =0;
+  while ((c=getchar()) != EOF) {
+    if (c==" "){
+      nWhite++
+;}
+    elseif (c=="\n")
+      
+
+
+    printf("c is : $c \n",c);
+  }
+  return 0;
+}
