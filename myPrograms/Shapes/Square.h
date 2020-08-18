@@ -14,10 +14,9 @@ class Square: public Shape {
 
  private:
   double width;
-  static int numRect;
+  static int numSquare;
 };
 
 #endif // _SQUARE
-
 
   
